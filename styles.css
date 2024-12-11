@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+h1{
+    color: darkblue;
+    text-decoration: underline;
+}
+
 body{
     background-color: #65686C;
 }
